@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fj460
-- 👀 I’m interested in backend development, specially using Spring Boot
+- 👀 I’m a software developer, using Spring Boot
 - 🌱 I’m currently improving my skills in backend development
 - 💞️ I’m looking to collaborate on whatever builds my backend skills
 
